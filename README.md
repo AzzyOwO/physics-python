@@ -11,7 +11,7 @@ No copyright needed and all open source.
 install these depndecies
 
 Dependency	 Installation Command
-----------   ------------------------------
+
 Python 3	   (Pre-installed on most systems)
 pygame	     pip install pygame
 numpy	       pip install numpy
